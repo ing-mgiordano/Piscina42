@@ -1,0 +1,5 @@
+Porque no uso el return(0) en los main??
+
+Porque declaró main(void) y no main(int) si la función anterior devuelva e un int??
+
+Que es esto printf("%lu\n", strlen(""));
